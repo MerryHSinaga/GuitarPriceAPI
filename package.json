@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Fender Stratocaster", "price_idr": 19200000, "type": "Electric", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/fender_strat.jpg" },
+  { "id": 2, "name": "Gibson Les Paul", "price_idr": 25000000, "type": "Electric", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/gibson_lespaul.jpg" },
+  { "id": 3, "name": "Yamaha FG800", "price_idr": 2500000, "type": "Acoustic", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/yamaha_fg800.jpg" },
+  { "id": 4, "name": "Ibanez RG550", "price_idr": 18000000, "type": "Electric", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/ibanez_rg550.jpg" },
+  { "id": 5, "name": "Fender Telecaster", "price_idr": 21000000, "type": "Electric", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/fender_tele.jpg" },
+  { "id": 6, "name": "Martin D-28", "price_idr": 45000000, "type": "Acoustic", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/martin_d28.jpg" },
+  { "id": 7, "name": "Epiphone Les Paul Standard", "price_idr": 8000000, "type": "Electric", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/epiphone_lespaul.jpg" },
+  { "id": 8, "name": "Yamaha Pacifica 112V", "price_idr": 3500000, "type": "Electric", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/yamaha_pacifica.jpg" },
+  { "id": 9, "name": "Takamine GD30CE", "price_idr": 5500000, "type": "Acoustic", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/takamine_gd30ce.jpg" },
+  { "id": 10, "name": "Gibson SG Standard", "price_idr": 23000000, "type": "Electric", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/gibson_sg.jpg" },
+  { "id": 11, "name": "Fender Jazzmaster", "price_idr": 22000000, "type": "Electric", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/fender_jazzmaster.jpg" },
+  { "id": 12, "name": "Ibanez Artcore AS73", "price_idr": 7000000, "type": "Electric", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/ibanez_as73.jpg" },
+  { "id": 13, "name": "Cordoba C5", "price_idr": 3000000, "type": "Acoustic", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/cordoba_c5.jpg" },
+  { "id": 14, "name": "Fender Mustang", "price_idr": 15000000, "type": "Electric", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/fender_mustang.jpg" },
+  { "id": 15, "name": "Gibson ES-335", "price_idr": 32000000, "type": "Electric", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/gibson_es335.jpg" },
+  { "id": 16, "name": "Yamaha FG830", "price_idr": 4000000, "type": "Acoustic", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/yamaha_fg830.jpg" },
+  { "id": 17, "name": "PRS SE Custom 24", "price_idr": 18000000, "type": "Electric", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/prs_se_custom24.jpg" },
+  { "id": 18, "name": "Epiphone SG G-400", "price_idr": 5000000, "type": "Electric", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/epiphone_sg.jpg" },
+  { "id": 19, "name": "Cort Earth 70", "price_idr": 2500000, "type": "Acoustic", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/cort_earth70.jpg" },
+  { "id": 20, "name": "Ibanez GIO GRG121DX", "price_idr": 3000000, "type": "Electric", "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/ibanez_grg121dx.jpg" }
+]
