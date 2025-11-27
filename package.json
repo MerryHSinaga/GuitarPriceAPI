@@ -1,142 +1,146 @@
-[
-  {
-    "id": 1,
-    "name": "Fender Stratocaster",
-    "price_idr": 19200000,
-    "type": "Electric",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/fender_strat.jpg"
-  },
-  {
-    "id": 2,
-    "name": "Gibson Les Paul",
-    "price_idr": 25000000,
-    "type": "Electric",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/gibson_lespaul.jpg"
-  },
-  {
-    "id": 3,
-    "name": "Ibanez RG",
-    "price_idr": 15000000,
-    "type": "Electric",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/ibanez_rg.jpg"
-  },
-  {
-    "id": 4,
-    "name": "Yamaha Pacifica",
-    "price_idr": 9000000,
-    "type": "Electric",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/yamaha_pacifica.jpg"
-  },
-  {
-    "id": 5,
-    "name": "Cort AD810",
-    "price_idr": 3500000,
-    "type": "Acoustic",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/cort_ad810.jpg"
-  },
-  {
-    "id": 6,
-    "name": "Cordoba C5",
-    "price_idr": 6000000,
-    "type": "Acoustic",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/cordoba_c5.jpg"
-  },
-  {
-    "id": 7,
-    "name": "Taylor 214ce",
-    "price_idr": 18000000,
-    "type": "Acoustic",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/taylor_214ce.jpg"
-  },
-  {
-    "id": 8,
-    "name": "Martin D-15",
-    "price_idr": 23000000,
-    "type": "Acoustic",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/martin_d15.jpg"
-  },
-  {
-    "id": 9,
-    "name": "Fender Jazz Bass",
-    "price_idr": 15000000,
-    "type": "Bass",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/fender_jazzbass.jpg"
-  },
-  {
-    "id": 10,
-    "name": "Ibanez SR500",
-    "price_idr": 12000000,
-    "type": "Bass",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/ibanez_sr500.jpg"
-  },
-  {
-    "id": 11,
-    "name": "Yamaha TRBX304",
-    "price_idr": 8000000,
-    "type": "Bass",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/yamaha_trbx304.jpg"
-  },
-  {
-    "id": 12,
-    "name": "Epiphone Les Paul",
-    "price_idr": 9000000,
-    "type": "Electric",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/epiphone_lespaul.jpg"
-  },
-  {
-    "id": 13,
-    "name": "Schecter Omen 6",
-    "price_idr": 10000000,
-    "type": "Electric",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/schecter_omen6.jpg"
-  },
-  {
-    "id": 14,
-    "name": "PRS SE Custom 24",
-    "price_idr": 17000000,
-    "type": "Electric",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/prs_se_custom24.jpg"
-  },
-  {
-    "id": 15,
-    "name": "Takamine GD30",
-    "price_idr": 7000000,
-    "type": "Acoustic",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/takamine_gd30.jpg"
-  },
-  {
-    "id": 16,
-    "name": "Fender Acoustasonic",
-    "price_idr": 28000000,
-    "type": "Acoustic",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/fender_acoustasonic.jpg"
-  },
-  {
-    "id": 17,
-    "name": "Warwick RockBass",
-    "price_idr": 14000000,
-    "type": "Bass",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/warwick_rockbass.jpg"
-  },
-  {
-    "id": 18,
-    "name": "Squier Bullet Strat",
-    "price_idr": 2500000,
-    "type": "Electric",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/squier_bullet_strat.jpg"
-  },
-  {
-    "id": 19,
-    "name": "Gibson SG",
-    "price_idr": 22000000,
-    "type": "Electric",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/gibson_sg.jpg"
-  },
-  {
-    "id": 20,
-    "name": "Ibanez Artcore AS73",
-    "price_idr": 9000000,
-    "type": "Electric",
-    "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/main/images/ibanez_artcore_as73.jpg"
-  }
-]
+{
+  "status": "success",
+  "count": 20,
+  "data": [
+    {
+      "id": 1,
+      "name": "Fender Stratocaster",
+      "price_idr": 19200000,
+      "type": "Electric",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/fender_strat.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Gibson Les Paul",
+      "price_idr": 28500000,
+      "type": "Electric",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/gibson_lespaul.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Yamaha Pacifica",
+      "price_idr": 6500000,
+      "type": "Electric",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/yamaha_pacifica.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ibanez RG",
+      "price_idr": 8900000,
+      "type": "Electric",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/ibanez_rg.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cordoba C5",
+      "price_idr": 4200000,
+      "type": "Acoustic",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/cordoba_c5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Martin D-28",
+      "price_idr": 52000000,
+      "type": "Acoustic",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/martin_d28.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Taylor 214ce",
+      "price_idr": 14000000,
+      "type": "Acoustic",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/taylor_214ce.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Epiphone Les Paul",
+      "price_idr": 6200000,
+      "type": "Electric",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/epiphone_lespaul.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Fender Telecaster",
+      "price_idr": 15000000,
+      "type": "Electric",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/fender_tele.jpg"
+    },
+    {
+      "id": 10,
+      "name": "PRS SE Custom 24",
+      "price_idr": 18000000,
+      "type": "Electric",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/prs_se_custom24.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Yamaha FG800",
+      "price_idr": 3200000,
+      "type": "Acoustic",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/yamaha_fg800.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Fender Player Stratocaster",
+      "price_idr": 18500000,
+      "type": "Electric",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/fender_player_strat.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Ibanez Artcore AS73",
+      "price_idr": 5500000,
+      "type": "Electric",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/ibanez_artcore_as73.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Gibson SG",
+      "price_idr": 23000000,
+      "type": "Electric",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/gibson_sg.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Cordoba C3M",
+      "price_idr": 3700000,
+      "type": "Acoustic",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/cordoba_c3m.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Epiphone SG Standard",
+      "price_idr": 5900000,
+      "type": "Electric",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/epiphone_sg.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Fender Jazzmaster",
+      "price_idr": 21000000,
+      "type": "Electric",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/fender_jazzmaster.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Taylor 314ce",
+      "price_idr": 22000000,
+      "type": "Acoustic",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/taylor_314ce.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Ibanez S521",
+      "price_idr": 14500000,
+      "type": "Electric",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/ibanez_s521.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Gibson ES-335",
+      "price_idr": 28000000,
+      "type": "Electric",
+      "image_url": "https://raw.githubusercontent.com/MerryHSinaga/GuitarPriceAPI/refs/heads/main/images/gibson_es335.jpg"
+    }
+  ]
+}
