@@ -1,0 +1,8 @@
+{
+  "name": "guitar-price-api",
+  "version": "1.0.0",
+  "description": "API for guitar prices for Pemrograman Aplikasi Mobile Project",
+  "main": "api/guitars.js",
+  "license": "MIT",
+  "type": "module"
+}
